@@ -11,6 +11,6 @@ Then click this app and goto to view
 
 Then goto assets and you show all file 
 
-[Tutorial video] (https://t.me/TBBSUPORTGROUP/47416)
+[Tutorial video](https://t.me/TBBSUPORTGROUP/47416)
 
 # [Telegram](https://t.me/teamblackberry)
