@@ -1,4 +1,4 @@
-# TBB GALLERY HACK
+# TBB Gallery Hack
 Gallery Hack Form Our Team
 # Setup 
 You need [Mt Manager](https://t.me/TBBSUPORTGROUP/47343) Download it Form our telegram 
